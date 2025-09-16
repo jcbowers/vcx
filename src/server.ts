@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 // Minimal MCP-style stdio server exposing two tools: load_guidance & expand_excerpt
 // This is a pragmatic JSON-RPC-ish loop to keep things dependency-light.
 // If you later adopt an official MCP SDK, replace only this file; keep loader logic intact.
